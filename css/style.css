@@ -1,0 +1,153 @@
+html{
+    scroll-behavior: smooth;
+}
+.font-r{
+    font-family: 'Righteous', cursive;
+}
+
+.font-p{
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -o-user-select: none;
+}
+
+.btn-purple{
+    color:#4A154C;
+}
+.header-bg {
+    background-image: url("/img/Waves/wave-2.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+
+}
+
+.header-content {
+    height: 720px;
+}
+
+.nav-item {
+    margin-left: 0px;
+}
+
+
+/* About us */
+.about-bg{
+    background: linear-gradient(119.66deg, #4A154C 0%, #25306A 73.23%);
+}
+
+.about-p{
+    font-size: 24px;
+    padding-top: 32px;
+}
+
+/* work */
+.work-bg{
+    background-image: url("/img/Waves/wave-4.png");
+    background-position: center;
+    background-size: cover;
+    height: 543px;
+}
+ 
+.line{
+    position:absolute;
+    width: 505px;
+    background-color: white;
+    height: 2px; 
+    left: 420px;
+    opacity: 1;
+}
+
+.moon-launch{
+    height: 1000px;
+}
+#p1{
+    position: absolute; 
+left: 38.1%;
+right: 35.71%;
+top: 2784px;
+bottom: 55.13%;
+}
+#p2{
+    position: absolute;     
+left: 24.43%;
+right: 47.22%;
+top: 3061px;
+bottom: 51.17%;
+}
+#p3{
+    position: absolute;
+left: 52.14%;
+right: 19.51%;
+top: 3061px;
+bottom: 51.17%;
+}
+#p4{
+    position: absolute;
+left: 9.28%;
+right: 61.38%;
+top:3334px;
+bottom: 47.26%;
+
+}
+#p5{
+    position: absolute;
+left: 37.19%;
+right: 33.4%;
+top:3334px;
+bottom: 47.26%;
+}
+#p6{
+    position: absolute;
+left: 64.54%;
+right: 7.28%;
+top:3334px;
+bottom: 47.26%;
+}
+
+
+.card-body{
+    border-radius: 25px;
+    background: linear-gradient(157.48deg, #521755 0.87%, #293576 100%);
+    background-blend-mode: multiply;
+    padding: 40px 16px 90px 16px;
+}
+
+.cus-card {
+    border: none;
+    box-shadow: 0px 12px 35px -10px rgba(0, 0, 0, 0.1);
+}
+
+/* google maps */
+.map-container-6
+{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container-6 iframe
+{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
+/* footer */
+.footer-bg{
+        background-image: url("/img/Waves/wave-3.png");
+        background-position: center;
+        background-repeat: no-repeat;
+}
+
+a{
+    text-decoration: none;
+}
