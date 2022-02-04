@@ -21,7 +21,7 @@ body {
     color:#4A154C;
 }
 .header-bg {
-    background-image: url("/img/Waves/wave-2.png");
+    background-image: url("img/Waves/wave-2.png");
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
@@ -49,7 +49,7 @@ body {
 
 /* work */
 .work-bg{
-    background-image: url("/img/Waves/wave-4.png");
+    background-image: url("img/Waves/wave-4.png");
     background-position: center;
     background-size: cover;
     height: 543px;
@@ -143,7 +143,7 @@ bottom: 47.26%;
 
 /* footer */
 .footer-bg{
-        background-image: url("/img/Waves/wave-3.png");
+        background-image: url("img/Waves/wave-3.png");
         background-position: center;
         background-repeat: no-repeat;
 }
